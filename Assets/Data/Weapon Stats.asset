@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c12b8daa456e364390eeaa36c9b1fcd, type: 3}
+  m_Name: Weapon Stats
+  m_EditorClassIdentifier: 
+  bullets: 10
+  fireRate: 1
+  reloadTime: 5
+  damage: 3
+  level: 1
+  maxLevel: 1000
+  bulletsUp: 1
+  fireRateUp: 0.05
+  reloadTimeUp: 0.1
+  damageUp: 0.25
+  upgradePrice: 25
+  upgradePriceUp: 25
+  minFireRate: 0.1
+  minReloadTime: 0.01
